@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">People list</string>
+    <string name="person_photo">Person photo</string>
+    <string name="remove_person">Add new person</string>
+    <string name="age">Age: </string>
+    <string name="add_new_person">Add new person</string>
+    <string name="name">Name:</string>
+    <string name="provide_name">Provide name</string>
+    <string name="surname">Surname:</string>
+    <string name="birth_date">Birth date:</string>
+    <string name="provide_surname">Provide surname</string>
+    <string name="select_birth_date">Select your birth date</string>
+    <string name="confirm_menu_item">Confirm</string>
+    <string name="add_person">Add person</string>
+    <string name="load_sample_data">Load sample data</string>
+    <string name="clear_data">Clear data</string>
+</resources>
